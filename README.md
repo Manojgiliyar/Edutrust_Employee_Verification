@@ -1,6 +1,6 @@
 # Edutrust 
  Collaborators :
-   Guide: Pankaj Kumar
+   #Guide: Pankaj Kumar
 Team members :
   Chinmaya dandin
   Manoj 
